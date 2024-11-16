@@ -1,0 +1,3 @@
+[submodule "quant_ui"]
+    path = quant_ui
+    url = <https://github.com/andrew-pyrookie/QuantIQ.git>
